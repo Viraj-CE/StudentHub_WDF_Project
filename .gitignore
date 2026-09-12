@@ -1,0 +1,5 @@
+/includes/config.php
+/storage/*.jsonl
+/storage/*.csv
+/uploads/posters/*
+!/uploads/posters/.gitkeep
