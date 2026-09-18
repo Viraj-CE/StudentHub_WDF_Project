@@ -1,0 +1,1 @@
+</main><footer class="site-footer"><div><strong>StudentHub</strong><p>Learning, events and campus connections in one place.</p></div><small>ITUE203 · Web Development Frameworks · CSPIT-CE</small></footer><script src="<?= BASE_URL ?>/assets/js/app.js" defer></script></body></html>

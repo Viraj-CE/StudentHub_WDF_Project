@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "title": "Web Development Bootcamp",
+    "category": "Workshop",
+    "date": "2026-11-02",
+    "description": "Build responsive web interfaces with HTML, CSS and JavaScript."
+  },
+  {
+    "id": 2,
+    "title": "AI and Innovation Meetup",
+    "category": "Seminar",
+    "date": "2026-11-03",
+    "description": "Explore student projects and practical AI applications."
+  },
+  {
+    "id": 3,
+    "title": "Career Readiness Workshop",
+    "category": "Career",
+    "date": "2026-11-04",
+    "description": "Prepare portfolios, resumes and technical interviews."
+  },
+  {
+    "id": 4,
+    "title": "Open Source Sprint",
+    "category": "Community",
+    "date": "2026-11-05",
+    "description": "Collaborate on beginner-friendly community projects."
+  },
+  {
+    "id": 5,
+    "title": "Cloud Computing Seminar",
+    "category": "Technology",
+    "date": "2026-11-06",
+    "description": "Learn the fundamentals of cloud architecture."
+  },
+  {
+    "id": 6,
+    "title": "UI/UX Design Jam",
+    "category": "Workshop",
+    "date": "2026-11-07",
+    "description": "Turn student ideas into useful product experiences."
+  },
+  {
+    "id": 7,
+    "title": "Cybersecurity Awareness",
+    "category": "Seminar",
+    "date": "2026-11-08",
+    "description": "Understand safer web development practices."
+  },
+  {
+    "id": 8,
+    "title": "Data Visualization Lab",
+    "category": "Career",
+    "date": "2026-11-09",
+    "description": "Present data clearly with charts and dashboards."
+  },
+  {
+    "id": 9,
+    "title": "Entrepreneurship Forum",
+    "category": "Community",
+    "date": "2026-11-10",
+    "description": "Discuss turning campus ideas into prototypes."
+  },
+  {
+    "id": 10,
+    "title": "Campus Coding Challenge",
+    "category": "Technology",
+    "date": "2026-11-11",
+    "description": "Solve programming problems in a friendly contest."
+  },
+  {
+    "id": 11,
+    "title": "Database Design Clinic",
+    "category": "Workshop",
+    "date": "2026-11-12",
+    "description": "Practice ER modeling and normalized schemas."
+  },
+  {
+    "id": 12,
+    "title": "Accessibility Review Day",
+    "category": "Seminar",
+    "date": "2026-11-13",
+    "description": "Make web pages usable for more people."
+  },
+  {
+    "id": 13,
+    "title": "PHP and MySQL Lab",
+    "category": "Career",
+    "date": "2026-11-14",
+    "description": "Connect a web form to a relational database."
+  },
+  {
+    "id": 14,
+    "title": "Git and GitHub Basics",
+    "category": "Community",
+    "date": "2026-11-15",
+    "description": "Track changes and collaborate effectively."
+  },
+  {
+    "id": 15,
+    "title": "Student Project Showcase",
+    "category": "Technology",
+    "date": "2026-11-16",
+    "description": "Share projects and receive peer feedback."
+  }
+]

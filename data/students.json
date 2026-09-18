@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "name": "Aarav Shah",
+    "department": "Computer Engineering",
+    "semester": 3,
+    "email": "student01@example.com"
+  },
+  {
+    "id": 2,
+    "name": "Diya Patel",
+    "department": "Information Technology",
+    "semester": 3,
+    "email": "student02@example.com"
+  },
+  {
+    "id": 3,
+    "name": "Rohan Mehta",
+    "department": "Computer Engineering",
+    "semester": 3,
+    "email": "student03@example.com"
+  },
+  {
+    "id": 4,
+    "name": "Anaya Desai",
+    "department": "Electronics",
+    "semester": 5,
+    "email": "student04@example.com"
+  },
+  {
+    "id": 5,
+    "name": "Kabir Joshi",
+    "department": "Computer Engineering",
+    "semester": 3,
+    "email": "student05@example.com"
+  },
+  {
+    "id": 6,
+    "name": "Mira Trivedi",
+    "department": "Information Technology",
+    "semester": 5,
+    "email": "student06@example.com"
+  },
+  {
+    "id": 7,
+    "name": "Arjun Rao",
+    "department": "Computer Engineering",
+    "semester": 3,
+    "email": "student07@example.com"
+  },
+  {
+    "id": 8,
+    "name": "Sara Khan",
+    "department": "Mechanical",
+    "semester": 3,
+    "email": "student08@example.com"
+  },
+  {
+    "id": 9,
+    "name": "Dev Shah",
+    "department": "Computer Engineering",
+    "semester": 5,
+    "email": "student09@example.com"
+  },
+  {
+    "id": 10,
+    "name": "Isha Patel",
+    "department": "Information Technology",
+    "semester": 3,
+    "email": "student10@example.com"
+  },
+  {
+    "id": 11,
+    "name": "Neel Vyas",
+    "department": "Computer Engineering",
+    "semester": 3,
+    "email": "student11@example.com"
+  },
+  {
+    "id": 12,
+    "name": "Kiara Dave",
+    "department": "Civil",
+    "semester": 5,
+    "email": "student12@example.com"
+  },
+  {
+    "id": 13,
+    "name": "Reyansh Modi",
+    "department": "Computer Engineering",
+    "semester": 3,
+    "email": "student13@example.com"
+  },
+  {
+    "id": 14,
+    "name": "Aditi Shah",
+    "department": "Information Technology",
+    "semester": 3,
+    "email": "student14@example.com"
+  },
+  {
+    "id": 15,
+    "name": "Vivaan Patel",
+    "department": "Computer Engineering",
+    "semester": 5,
+    "email": "student15@example.com"
+  }
+]

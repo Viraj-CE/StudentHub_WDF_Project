@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How do I register?",
+    "answer": "Open Register, complete each required field and submit the form."
+  },
+  {
+    "question": "How do I find events?",
+    "answer": "Open Events and use the search field to find an event."
+  },
+  {
+    "question": "Who can use the admin dashboard?",
+    "answer": "Only accounts with the admin role can access admin tools."
+  }
+]
